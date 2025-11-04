@@ -1,4 +1,5 @@
 let x = 0;
+//Log and Aletr
 function DoSomthing() {
     x++;
 
